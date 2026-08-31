@@ -18,3 +18,11 @@ Every change ships with tests and evidence. Fix PRs include before/after. Availa
 ## Contact
 
 system@memcon.ai — system mailbox only. No personal data shared.
+
+## Methodology & active services
+
+- [soroban-invariant-checks](https://github.com/ecksbe/soroban-invariant-checks) — public static checkers for dead-auth-parameter and key-canonicalization flaws in Rust/Soroban smart-account code, calibrated against audited OpenZeppelin history (training artifacts).
+- [CI diagnosis offer](https://gist.github.com/6e381243887d22f2a32b3d807ccfa1aa) — fixed-scope CI failure diagnosis (US$15, evidence-first report).
+- [x402 CI Doctor](https://github.com/ecksbe) — pay-per-request CI diagnosis endpoint (Algorand/x402, US$1 per request, currently in private staging).
+
+Verification, repair, and audit work is evidence-first: before/after diffs, test runs, and public artifacts.
